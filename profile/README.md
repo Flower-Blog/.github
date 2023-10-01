@@ -37,6 +37,8 @@
 
 路由+畫面 https://hackmd.io/harT0IYHTxyjJ_IYhYhN7A
 
-畫面設計https://play.teleporthq.io/projects/character-nft-template-9se4jq/editor/aa6acbc3-2da8-47ea-b4fb-2f4063b21500
+畫面設計 https://play.teleporthq.io/projects/character-nft-template-9se4jq/editor/aa6acbc3-2da8-47ea-b4fb-2f4063b21500
+
+DEMO_影片 https://www.youtube.com/watch?v=2bwhXT9nd2A
 
 
