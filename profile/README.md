@@ -1,4 +1,8 @@
 ## Hi there 👋
+# 簡介
+讓使用者可以更有動機或是契機，勇於分享筆記、日常，給喜歡收集的文字創作者，所以我們的平台可以提供創建、編輯刪除文章，也可以互相送花、也可以互相留言。
+系統也會幫使用者收集送花紀錄，可以看到對方送了哪一篇文章，而我們也會做最新以及熱門來給篩選瀏覽，管理者就可以看到新增的使用者、所有送花紀錄可以了解平台使用狀況。
+
 ![image](https://github.com/Flower-Blog/.github/assets/113336518/3500a8cb-9d6b-4bb0-8f46-0d5c6fa1025b)
 <!--
 
@@ -10,10 +14,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
-# 簡介
-讓使用者可以更有動機或是契機，勇於分享筆記、日常，給喜歡收集的文字創作者，所以我們的平台可以提供創建、編輯刪除文章，也可以互相送花、也可以互相留言。
-系統也會幫使用者收集送花紀錄，可以看到對方送了哪一篇文章，而我們也會做最新以及熱門來給篩選瀏覽，管理者就可以看到新增的使用者、所有送花紀錄可以了解平台使用狀況。
 
 # 功能性需求
 ![image](https://github.com/Flower-Blog/.github/assets/113336518/510088f3-fe90-4021-8e33-01607ec83f49)
